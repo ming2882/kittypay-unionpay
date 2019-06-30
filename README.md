@@ -1,3 +1,3 @@
 # kittypay-unionpay
 
-unionpay,kittypay,up.95516.com
+unionpay,kittypay,https://up.95516.com/open/openapi
