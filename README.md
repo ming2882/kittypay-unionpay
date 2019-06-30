@@ -1,2 +1,3 @@
 # kittypay-unionpay
-unionpay,kittypay
+
+unionpay,kittypay,up.95516.com
