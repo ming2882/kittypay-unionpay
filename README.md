@@ -1,0 +1,2 @@
+# kittypay-unionpay
+unionpay,kittypay
