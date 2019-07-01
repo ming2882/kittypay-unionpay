@@ -1,0 +1,31 @@
+{
+  "name": "kittppay-unionpay",
+  "version": "0.1.0",
+  "description": "unionpay up payment api for document v2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ming2882/kittypay-unionpay.git"
+  },
+  "keywords": [
+    "kittppay",
+    "unionpay",
+    "payment"
+  ],
+  "author": "spud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ming2882/kittypay-unionpay/issues"
+  },
+  "homepage": "https://github.com/ming2882/kittypay-unionpay",
+  "dependencies": {
+    "md5": "^2.0.0",
+    "request": "^2.45.0",
+    "sha1": "^1.1.0",
+    "underscore": "^1.7.0",
+    "xml2js": "^0.4.4"
+  }
+}
